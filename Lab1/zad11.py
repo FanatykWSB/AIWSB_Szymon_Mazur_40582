@@ -1,0 +1,12 @@
+print(False)
+print(True)
+print(7 <= 5)
+print(2 + 4 == 6)
+print(7 * 8 == 6 * 9)
+print(True or False)
+print(True and False)
+print(False and False)
+print(False or False)
+print(13 % 4 == 1)
+print(3 <= 5 or 2 == 4)
+
